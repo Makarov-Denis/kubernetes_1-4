@@ -44,22 +44,24 @@
 ![curl 8080](https://github.com/user-attachments/assets/c27e506b-4559-4de3-a261-dc7592b8daa2)
 
 Ниже представлены тесты где Сервис отвечает по нужным портам:
+
 ![curl cluster 9001](https://github.com/user-attachments/assets/0b90859d-7c33-4695-a118-911910c6cf0b)
 
 ![curl cluster 9002](https://github.com/user-attachments/assets/dca5d805-ea4e-4330-82bf-b465175b58cb)
 
-```
+
 ### 4. Продемонстрировать доступ с помощью `curl` по доменному имени сервиса.
 
 Ниже представлены тесты по доменному имени сервиса:
 
-![curl domain 9001](https://github.com/user-attachments/assets/bbc743dd-59ab-4f58-a4d5-eeb5b043de21)
+![curl domain 9001](https://github.com/user-attachments/assets/5f754700-ddce-47ab-bc0e-8ded9325035e)
 
-![curl domain 9002](https://github.com/user-attachments/assets/9f6d28ac-8a97-45b5-9253-73f2b4317669)
+![curl cluster 9002](https://github.com/user-attachments/assets/107aa1ae-1666-4efd-a73d-3f698e3be3f2)
+
+---
 
 ### 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
-------
 
 ## Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера
 
